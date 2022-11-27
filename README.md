@@ -1,1 +1,1 @@
-Hi! this project i made to learn how to use git
+Hi! this project i made to learn/pratice how to use git
